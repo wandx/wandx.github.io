@@ -15,9 +15,9 @@
       	z-index: 9999;
       	background: url(assets/image/preloader.gif) center no-repeat #fff;
       }
+      
+      
     </style>
-    <script src="assets/js/jquery.min.js"></script>
-    <script src="assets/js/bootstrap.min.js"></script><script>$(function(){$(".preloader").fadeOut("slow");$('[data-toggle="tooltip"]').tooltip()});</script>
   </head>
   <body>
     <div class="preloader"></div>
@@ -188,5 +188,7 @@
         </div>
       </div>
     </div>
+    <script src="assets/js/jquery.min.js"></script>
+    <script src="assets/js/bootstrap.min.js"></script><script>$(function(){setTimeout(function(){$(".preloader").fadeOut("slow");},2500);$('[data-toggle="tooltip"]').tooltip()});</script>
   </body>
 </html>
