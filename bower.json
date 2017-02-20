@@ -1,0 +1,22 @@
+{
+  "name": "profile",
+  "authors": [
+    "wandypurnomo <wandy@mediatechindo.com>"
+  ],
+  "description": "myprofile",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap-sass": "^3.3.7",
+    "font-awesome-sass": "^4.7.0"
+  }
+}
