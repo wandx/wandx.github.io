@@ -5796,7 +5796,7 @@ button.close { padding: 0; cursor: pointer; background: transparent; border: 0; 
 .sr-only-focusable:active, .sr-only-focusable:focus { position: static; width: auto; height: auto; margin: 0; overflow: visible; clip: auto; }
 
 /* line 2, ../../src/sass/base/_basic.sass */
-body { background: red; background-image: url(../image/bg.jpg); background-attachment: fixed; background-size: cover; font-family: "Josefin Slab", serif; }
+body { background: red; background-image: url(../image/bg2.jpg); background-attachment: fixed; background-size: cover; font-family: "Josefin Slab", serif; }
 
 /* line 1, ../../src/sass/base/_box.sass */
 .box { border-radius: 7px; padding: 50px 0px; }
